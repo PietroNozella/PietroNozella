@@ -22,10 +22,3 @@ Sou apaixonado por transformar ideias em produtos reais. Meu foco principal é o
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
----
-
-### 📊 Meus Dados no GitHub
-<div style="display: flex; gap: 10px; justify-content: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PietroNozella&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Pietro" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroNozella&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150" />
-</div>
