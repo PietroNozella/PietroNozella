@@ -26,9 +26,9 @@ Desenvolvedor de software em formação, focado em transformar ideias em produto
 
 ## Projetos em destaque
 
-- **SIGEE — Sistema Integrado de Gestão de Equipamentos Escolares** — meu TCC, desenvolvido para apoiar instituições de ensino no controle de equipamentos tecnológicos, disponibilidade, reservas e manutenções.
-- [PetWalker](https://github.com/PietroNozella/PetWalker) — MVP para gestão de passeios e adestramento de cães, com API em FastAPI e aplicativo mobile.
-- [Piano Virtual](https://github.com/PietroNozella/PianoVirtual) — aplicação interativa de piano com HTML, CSS, JavaScript e Tone.js.
+- [SIGEE — Sistema Integrado de Gestão de Equipamentos Escolares](https://github.com/PietroNozella/SIGEE) — meu TCC, desenvolvido para apoiar instituições de ensino no controle de equipamentos tecnológicos, disponibilidade, reservas e manutenções.
+- [This-moon](https://github.com/PietroNozella/this-moon) — aplicação web desenvolvida com Next.js.
+- [NOC](https://github.com/PietroNozella/NOC) — aplicação web desenvolvida com Next.js.
 
 ## Contato
 
