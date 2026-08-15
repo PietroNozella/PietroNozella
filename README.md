@@ -27,8 +27,8 @@ Desenvolvedor de software em formação, focado em transformar ideias em produto
 ## Projetos em destaque
 
 - [SIGEE — Sistema Integrado de Gestão de Equipamentos Escolares](https://github.com/PietroNozella/SIGEE) — meu TCC, desenvolvido para apoiar instituições de ensino no controle de equipamentos tecnológicos, disponibilidade, reservas e manutenções.
-- [This-moon](https://github.com/PietroNozella/this-moon) — aplicação web desenvolvida com Next.js.
-- [NOC](https://github.com/PietroNozella/NOC) — aplicação web desenvolvida com Next.js.
+- [This-moon](https://github.com/PietroNozella/this-moon) — dashboard web desenvolvido com Next.js e React, com autenticação e persistência de dados pelo Supabase, além de integrações com a API da OpenAI.
+- [NOC](https://github.com/PietroNozella/NOC) — aplicação web multi-organização construída com Next.js, Supabase e PostgreSQL, com autenticação, perfis vinculados à organização e dashboard por empresa.
 
 ## Contato
 
