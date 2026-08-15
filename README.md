@@ -7,7 +7,7 @@ Desenvolvedor de software em formação, focado em transformar ideias em produto
 - Construo projetos do zero, da interface ao banco de dados.
 - Trabalho principalmente com aplicações web, APIs e produtos MVP.
 - Atualmente aprofundo meus conhecimentos em TypeScript, React, Python e arquitetura de software.
-- Também desenvolvo projetos acadêmicos e soluções com IoT, como o [FallSense](https://github.com/PietroNozella/pulseira-sensorial-iot-tcc), sistema de detecção de quedas para idosos.
+- Desenvolvo o SIGEE como TCC: uma solução para apoiar a gestão de equipamentos tecnológicos em instituições de ensino.
 
 ## Tecnologias
 
@@ -26,7 +26,7 @@ Desenvolvedor de software em formação, focado em transformar ideias em produto
 
 ## Projetos em destaque
 
-- [FallSense](https://github.com/PietroNozella/pulseira-sensorial-iot-tcc) — sistema de monitoramento e detecção de quedas para idosos, desenvolvido como TCC com FastAPI, Flutter, PostgreSQL e Docker.
+- **SIGEE — Sistema Integrado de Gestão de Equipamentos Escolares** — meu TCC, desenvolvido para apoiar instituições de ensino no controle de equipamentos tecnológicos, disponibilidade, reservas e manutenções.
 - [PetWalker](https://github.com/PietroNozella/PetWalker) — MVP para gestão de passeios e adestramento de cães, com API em FastAPI e aplicativo mobile.
 - [Piano Virtual](https://github.com/PietroNozella/PianoVirtual) — aplicação interativa de piano com HTML, CSS, JavaScript e Tone.js.
 
