@@ -38,10 +38,8 @@ Desenvolvedor full-stack que organiza escopo, tecnologia e entrega para transfor
 
 ## Estudos em andamento
 
-- [Learning AI Engineering](https://github.com/PietroNozella/Learning-AI-Eng) — exercícios e registros de estudo em engenharia de IA.
 - [Python Daily Projects](https://github.com/PietroNozella/python-daily-projects) — desafios, notebooks e pequenos projetos em Python.
 - [Segurança web](https://github.com/PietroNozella/web-seguranca-estudo) — estudos e laboratórios de segurança para aplicações web.
-- [Sensor de movimento](https://github.com/PietroNozella/sensor-movimento) — experimento com sensores e aplicação web.
 
 ---
 
