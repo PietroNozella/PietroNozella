@@ -32,7 +32,7 @@ Desenvolvedor full-stack que organiza escopo, tecnologia e entrega para transfor
 | Projeto | Problema que resolve | Stack | Acesso |
 |---|---|---|---|
 | **Meu Case** | Portfólio pessoal com projetos, stack e canais de contato. | React, TypeScript, Vite, Tailwind CSS | [Repositório](https://github.com/PietroNozella/meu-case) · [Demo](https://meu-case.vercel.app) |
-| **Chunkflow** | Transforma inglês real em prática diária. | Next.js, Supabase, OpenAI, TypeScript | [Repositório](https://github.com/PietroNozella/this-moon) · [Demo](https://this-moon.vercel.app) |
+| **This Moon** | Transforma inglês real em prática diária. | Next.js, Supabase, OpenAI, TypeScript | [Repositório](https://github.com/PietroNozella/this-moon) · [Demo](https://this-moon.vercel.app) |
 | **Docker Environments** | Ambientes progressivos para estudar Docker e stacks com múltiplos serviços. | Docker, Docker Compose, Node.js, Python | [Repositório](https://github.com/PietroNozella/docker-environments) |
 | **SIGEE** | Gestão de equipamentos escolares, reservas, movimentações e manutenções. | Python, Django, PostgreSQL, Supabase | [Repositório](https://github.com/PietroNozella/SIGEE) |
 
