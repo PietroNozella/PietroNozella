@@ -1,58 +1,34 @@
-﻿# Pietro Nozella
+# Pietro Nozella
 
-Indice de projetos e estudos. Cada repo tem um topico de categoria (cat-*) para filtragem rapida.
+Desenvolvedor full-stack focado em transformar ideias em produtos simples, seguros e prontos para produção.
 
-## Portfolio & Site
+[Portfólio](https://meu-case.vercel.app) · [E-mail](mailto:nozellasoneto@gmail.com)
 
-- [meu-case](https://github.com/PietroNozella/meu-case) - Portfolio pessoal
-- [meu-site-docker](https://github.com/PietroNozella/meu-site-docker) - Site pessoal hospedado com Docker
+## Stack principal
 
-## TCC & Faculdade
+`TypeScript` · `React` · `Next.js` · `Python` · `Supabase` · `Docker` · `Tailwind CSS` · `Vercel`
 
-- [pulseira-sensorial-iot-tcc](https://github.com/PietroNozella/pulseira-sensorial-iot-tcc) - TCC - deteccao de quedas com ESP32 e MicroPython
-- [SIGEE](https://github.com/PietroNozella/SIGEE) - Projeto de TCC (gestao)
+## Projetos em destaque
 
-## Estudos & Aprendizado
+| Projeto | O que entrega | Stack |
+|---|---|---|
+| [Meu Case](https://github.com/PietroNozella/meu-case) · [Demo](https://meu-case.vercel.app) | Portfólio pessoal com projetos, stack e canais de contato. | React, TypeScript, Vite, Tailwind CSS |
+| [RefinoAlbion](https://github.com/PietroNozella/RefinoAlbion) · [Demo](https://refino-albion.vercel.app) | Calculadora de lucratividade para apoiar decisões de refino no Albion Online. | Next.js, TypeScript, Tailwind CSS |
+| [Mini AWS](https://github.com/PietroNozella/mini-AWS) | Laboratório de nuvem privada com provisionamento e painel de controle. | Terraform, FastAPI, Proxmox, Docker |
+| [Chunkflow](https://github.com/PietroNozella/this-moon) · [Demo](https://this-moon.vercel.app) | Aplicação para transformar inglês real em prática diária. | Next.js, Supabase, OpenAI, TypeScript |
+| [FallSense](https://github.com/PietroNozella/pulseira-sensorial-iot-tcc) | TCC para monitoramento e detecção de quedas, com backend, aplicativo e documentação acadêmica. | FastAPI, Flutter, PostgreSQL, Docker |
+| [Docker Environments](https://github.com/PietroNozella/docker-environments) | Ambientes progressivos para estudar Docker e stacks com múltiplos serviços. | Docker, Docker Compose, Node.js, Python |
 
-- [atividade-M2](https://github.com/PietroNozella/atividade-M2) - Atividade academica M2
-- [HTML-testes](https://github.com/PietroNozella/HTML-testes) - Estudos de HTML
-- [implementacoes-padroes](https://github.com/PietroNozella/implementacoes-padroes) - Implementacoes de design patterns
-- [Learning-AI-Eng](https://github.com/PietroNozella/Learning-AI-Eng) - Estudos de engenharia de IA
-- [python-daily-projects](https://github.com/PietroNozella/python-daily-projects) - Desafios diarios de Python
-- [sensor-movimento](https://github.com/PietroNozella/sensor-movimento) - Projeto de sensor de movimento (estudo)
-- [web-seguranca-estudo](https://github.com/PietroNozella/web-seguranca-estudo) - Estudos e laboratorios de seguranca web
+## Estudos e aprendizado
 
-## Projetos Pessoais
+- [Learning AI Engineering](https://github.com/PietroNozella/Learning-AI-Eng): exercícios e registros de estudo em engenharia de IA.
+- [Python Daily Projects](https://github.com/PietroNozella/python-daily-projects): desafios, notebooks e pequenos projetos em Python.
+- [Segurança web](https://github.com/PietroNozella/web-seguranca-estudo): estudos e laboratórios de segurança para aplicações web.
+- [Sensor de movimento](https://github.com/PietroNozella/sensor-movimento): experimento com sensores e aplicação web.
 
-- [acustico](https://github.com/PietroNozella/acustico) (privado) - Projeto pessoal (privado)
-- [biblioteca-magica](https://github.com/PietroNozella/biblioteca-magica) - Projeto pessoal - biblioteca magica
-- [docker-environments](https://github.com/PietroNozella/docker-environments) - Ambientes Docker prontos para uso (dev/prod)
-- [LPTREINO1](https://github.com/PietroNozella/LPTREINO1) - Landing page de treino (canonico)
-- [mini-AWS](https://github.com/PietroNozella/mini-AWS) - Nuvem privada com Terraform + FastAPI + Proxmox
-- [PetWalker](https://github.com/PietroNozella/PetWalker) - Projeto PetWalker
-- [PianoVirtual](https://github.com/PietroNozella/PianoVirtual) - Piano virtual (HTML/JS)
-- [this-moon](https://github.com/PietroNozella/this-moon) - Projeto pessoal (TypeScript)
+## Contato
 
-## Jogos
-
-- [RefinoAlbion](https://github.com/PietroNozella/RefinoAlbion) - Calculadora de refino para Albion Online (canonico)
-
-## Eventos
-
-- [niverjory](https://github.com/PietroNozella/niverjory) - Convite de aniversario (canonico)
-
-## Arquivados (legado / consolidados)
-
-- [CalculaRefino](https://github.com/PietroNozella/CalculaRefino) (arquivado) - Consolidado em PietroNozella/RefinoAlbion (arquivado)
-- [cartao-aniversario](https://github.com/PietroNozella/cartao-aniversario) (arquivado) - Consolidado em PietroNozella/niverjory (arquivado)
-- [chatbot_test](https://github.com/PietroNozella/chatbot_test) (arquivado) - 
-- [DATABASE](https://github.com/PietroNozella/DATABASE) (arquivado) - 
-- [Diagrams-](https://github.com/PietroNozella/Diagrams-) (arquivado) - 
-- [JavaProjects](https://github.com/PietroNozella/JavaProjects) (arquivado) - 
-- [LPTREINO4](https://github.com/PietroNozella/LPTREINO4) (arquivado) - Consolidado em PietroNozella/LPTREINO1 (arquivado)
-- [o-milagre-v2](https://github.com/PietroNozella/o-milagre-v2) (privado) (arquivado) - Consolidado em PietroNozella/RefinoAlbion (arquivado)
-- [Python](https://github.com/PietroNozella/Python) (privado) (arquivado) - 
-- [test.python](https://github.com/PietroNozella/test.python) (privado) (arquivado) - 
-- [test-python](https://github.com/PietroNozella/test-python) (privado) (arquivado) - 
+- Portfólio: [meu-case.vercel.app](https://meu-case.vercel.app)
+- E-mail: [nozellasoneto@gmail.com](mailto:nozellasoneto@gmail.com)
 
 
