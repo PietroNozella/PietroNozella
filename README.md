@@ -1,35 +1,58 @@
-# Olá, eu sou o Pietro Nozella
+﻿# Pietro Nozella
 
-Desenvolvedor de software em formação, focado em transformar ideias em produtos digitais funcionais. Desenvolvo landing pages, MVPs e sistemas web, com interesse em interfaces bem construídas, APIs e soluções que resolvem problemas reais.
+Indice de projetos e estudos. Cada repo tem um topico de categoria (cat-*) para filtragem rapida.
 
-## Sobre mim
+## Portfolio & Site
 
-- Construo projetos do zero, da interface ao banco de dados.
-- Trabalho principalmente com aplicações web, APIs e produtos MVP.
-- Atualmente aprofundo meus conhecimentos em TypeScript, React, Python e arquitetura de software.
-- Desenvolvo o SIGEE como TCC: uma solução para apoiar a gestão de equipamentos tecnológicos em instituições de ensino.
+- [meu-case](https://github.com/PietroNozella/meu-case) - Portfolio pessoal
+- [meu-site-docker](https://github.com/PietroNozella/meu-site-docker) - Site pessoal hospedado com Docker
 
-## Tecnologias
+## TCC & Faculdade
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+- [pulseira-sensorial-iot-tcc](https://github.com/PietroNozella/pulseira-sensorial-iot-tcc) - TCC - deteccao de quedas com ESP32 e MicroPython
+- [SIGEE](https://github.com/PietroNozella/SIGEE) - Projeto de TCC (gestao)
 
-## Projetos em destaque
+## Estudos & Aprendizado
 
-- [SIGEE — Sistema Integrado de Gestão de Equipamentos Escolares](https://github.com/PietroNozella/SIGEE) — meu TCC, desenvolvido para apoiar instituições de ensino no controle de equipamentos tecnológicos, disponibilidade, reservas e manutenções.
-- [This-moon](https://github.com/PietroNozella/this-moon) — dashboard web desenvolvido com Next.js e React, com autenticação e persistência de dados pelo Supabase, além de integrações com a API da OpenAI.
-- [NOC](https://github.com/PietroNozella/NOC) — aplicação web multi-organização construída com Next.js, Supabase e PostgreSQL, com autenticação, perfis vinculados à organização e dashboard por empresa.
+- [atividade-M2](https://github.com/PietroNozella/atividade-M2) - Atividade academica M2
+- [HTML-testes](https://github.com/PietroNozella/HTML-testes) - Estudos de HTML
+- [implementacoes-padroes](https://github.com/PietroNozella/implementacoes-padroes) - Implementacoes de design patterns
+- [Learning-AI-Eng](https://github.com/PietroNozella/Learning-AI-Eng) - Estudos de engenharia de IA
+- [python-daily-projects](https://github.com/PietroNozella/python-daily-projects) - Desafios diarios de Python
+- [sensor-movimento](https://github.com/PietroNozella/sensor-movimento) - Projeto de sensor de movimento (estudo)
+- [web-seguranca-estudo](https://github.com/PietroNozella/web-seguranca-estudo) - Estudos e laboratorios de seguranca web
 
-## Contato
+## Projetos Pessoais
 
-Você pode me encontrar aqui no GitHub: [@PietroNozella](https://github.com/PietroNozella).
+- [acustico](https://github.com/PietroNozella/acustico) (privado) - Projeto pessoal (privado)
+- [biblioteca-magica](https://github.com/PietroNozella/biblioteca-magica) - Projeto pessoal - biblioteca magica
+- [docker-environments](https://github.com/PietroNozella/docker-environments) - Ambientes Docker prontos para uso (dev/prod)
+- [LPTREINO1](https://github.com/PietroNozella/LPTREINO1) - Landing page de treino (canonico)
+- [mini-AWS](https://github.com/PietroNozella/mini-AWS) - Nuvem privada com Terraform + FastAPI + Proxmox
+- [PetWalker](https://github.com/PietroNozella/PetWalker) - Projeto PetWalker
+- [PianoVirtual](https://github.com/PietroNozella/PianoVirtual) - Piano virtual (HTML/JS)
+- [this-moon](https://github.com/PietroNozella/this-moon) - Projeto pessoal (TypeScript)
+
+## Jogos
+
+- [RefinoAlbion](https://github.com/PietroNozella/RefinoAlbion) - Calculadora de refino para Albion Online (canonico)
+
+## Eventos
+
+- [niverjory](https://github.com/PietroNozella/niverjory) - Convite de aniversario (canonico)
+
+## Arquivados (legado / consolidados)
+
+- [CalculaRefino](https://github.com/PietroNozella/CalculaRefino) (arquivado) - Consolidado em PietroNozella/RefinoAlbion (arquivado)
+- [cartao-aniversario](https://github.com/PietroNozella/cartao-aniversario) (arquivado) - Consolidado em PietroNozella/niverjory (arquivado)
+- [chatbot_test](https://github.com/PietroNozella/chatbot_test) (arquivado) - 
+- [DATABASE](https://github.com/PietroNozella/DATABASE) (arquivado) - 
+- [Diagrams-](https://github.com/PietroNozella/Diagrams-) (arquivado) - 
+- [JavaProjects](https://github.com/PietroNozella/JavaProjects) (arquivado) - 
+- [LPTREINO4](https://github.com/PietroNozella/LPTREINO4) (arquivado) - Consolidado em PietroNozella/LPTREINO1 (arquivado)
+- [o-milagre-v2](https://github.com/PietroNozella/o-milagre-v2) (privado) (arquivado) - Consolidado em PietroNozella/RefinoAlbion (arquivado)
+- [Python](https://github.com/PietroNozella/Python) (privado) (arquivado) - 
+- [test.python](https://github.com/PietroNozella/test.python) (privado) (arquivado) - 
+- [test-python](https://github.com/PietroNozella/test-python) (privado) (arquivado) - 
+
+
